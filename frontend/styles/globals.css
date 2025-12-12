@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.bg-chat-light {
+  background-image: url("/chat-bg-light.png");
+}
+
+.bg-chat-dark {
+  background-image: url("/chat-bg-dark.png");
+}
